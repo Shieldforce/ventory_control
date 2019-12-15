@@ -16,9 +16,20 @@ Route::get('/', function () {
 Auth::routes();
 
 //Group Panel
-Route::namespace('Panel')->prefix('panel')->group(function (){
+Route::namespace('Panel')->prefix('panel')->name('panel.')->group(function (){
 
     //Route Main
-    Route::get('main/index', 'MainController@index')->name('panel.main.index');
+    Route::get('main/index', 'MainController@index')->name('main.index');
+
+    //Route Resource Users
+    Route::resource('users', 'UsersController');
+
+    //Route Resource Roles
+    Route::resource('roles', 'RolesController');
+
+    //Route Resource Permissions
+    Route::resource('permissions', 'PermissionsController');
 
 });
+
+
