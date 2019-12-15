@@ -15,7 +15,6 @@ class MainController extends Controller
         $this->header =
             [
                 'crudName'=>"Painel Principal",
-                'ambient'=>'Painel',
                 'controller'=>'Principal'
             ];
     }

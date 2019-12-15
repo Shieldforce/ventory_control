@@ -13,4 +13,5 @@
     <link rel="stylesheet" href="{{ asset("Auth-Panel/plugins/daterangepicker/daterangepicker.css") }}">
     <link rel="stylesheet" href="{{ asset("Auth-Panel/plugins/summernote/summernote-bs4.css") }}">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    <link href="{{ asset('Auth-Panel/plugins/toastr/toastr.css') }}" rel="stylesheet">
 </head>

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ba11d8-23fa-4ecd-bbf6-0d0ac7d63983" name="Default Changelist" comment="" />
+    <list default="true" id="69ba11d8-23fa-4ecd-bbf6-0d0ac7d63983" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Panel/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Panel/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/template/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/template/head.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/template/javascript.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/template/javascript.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/panel/template/aside.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/panel/template/aside.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/panel/template/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/panel/template/head.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/panel/template/header_views.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/panel/template/header_views.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/panel/template/javascript.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/panel/template/javascript.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -113,14 +128,17 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UziQ3A0XLLAJN2HqxztMutByIr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../criadora" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/Auth-Panel" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ventory_control\public\Auth-Panel" />
       <recent name="C:\xampp\htdocs\ventory_control\app\Http\Controllers\Site" />
       <recent name="C:\xampp\htdocs\ventory_control\app\Http\Controllers\Panel" />
       <recent name="C:\xampp\htdocs\ventory_control\resources\views\panel" />
@@ -157,11 +175,22 @@
       <updated>1576365804740</updated>
       <workItem from="1576365805853" duration="7605000" />
       <workItem from="1576373435910" duration="20000" />
-      <workItem from="1576373466056" duration="2135000" />
+      <workItem from="1576373466056" duration="4931000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
